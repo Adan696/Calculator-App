@@ -1,4 +1,4 @@
-# Calculator - Main Version
+# Simple Calculator App
 
 ## Purpose
 A small Python calculator that adds, subtracts, multiplies and divides two numbers.
