@@ -8,6 +8,9 @@ elif op == "-":
 elif op == "*":
     print(a * b)
 elif op == "/":
-    print(a / b)
+    if b == 0:
+        print("Cannot divide by zero.")
+    else:
+        print(a / b)
 else:
     print("Unknown operation")
